@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>"Using Tech, Data & AI to leverage business and impact people for a more fair and evolved world. Happiness is only real when shared."</em><br>
+  <em>"Using Tech, Data & AI to leverage business and impact people for a more fair and evolved world."</em><br>
   <small><i>"Do. Or do not. There is no try." — Applying the Jedi mindset to deploying ML models in production.</i></small>
 </p>
 
