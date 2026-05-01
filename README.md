@@ -1,5 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id==https://drive.google.com/file/d/1jSyfZQIpM-PaLToKqnQmntvdyDqazWiS">
 
+!(https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1jSyfZQIpM-PaLToKqnQmntvdyDqazWiS)
+
 <div align="center">
 
 # 🧠 Vinicius Caridá, Ph.D.
