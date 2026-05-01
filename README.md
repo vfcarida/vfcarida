@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id==https://drive.google.com/file/d/1jSyfZQIpM-PaLToKqnQmntvdyDqazWiS" alt="Texto Alternativo">
+<img src="https://drive.google.com/uc?export=view&id==https://drive.google.com/file/d/1jSyfZQIpM-PaLToKqnQmntvdyDqazWiS">
 
 <div align="center">
 
