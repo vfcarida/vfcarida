@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.png" width="150" alt="Vinicius Caridá" style="border-radius: 50%;" />
+<img src="assets/profile.png" width="220" alt="Vinicius Caridá" style="border-radius: 50%;" />
 
 # 🧠 Vinicius Caridá, Ph.D.
 ### Executive Specialist in Data & AI | Computer Engineer | ML Expert
@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vfcarida&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
   <a href="https://www.linkedin.com/in/viniciuscarida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?user=LGo8lZwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://medium.com/@vfcarida"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://www.youtube.com/user/viniciuscarida"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
@@ -44,8 +45,43 @@ As a TEDx speaker and presenter at national and international events, I am passi
 
 ## 🔬 Featured Research
 
-* **BERTau Model:** Co-author of **BERTau**, a foundational language architecture trained entirely from scratch for the financial domain. This model surpassed the state-of-the-art and reduced computational and MLOps loads by up to 66%. 
-* 📚 **For a complete list of my academic work, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=LGo8lZwAAAAJ&hl=en).**
+* **BERTau Model:** Co-author of **BERTau**, a foundational language architecture trained entirely from scratch for the financial domain. This model surpassed the state-of-the-art and reduced computational and MLOps loads by up to 66%.
+
+<div align="center">
+  <br/>
+  <a href="https://scholar.google.com/citations?user=LGo8lZwAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-My%20Academic%20Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Publications" />
+  </a>
+</div>
+
+---
+
+## 📢 Featured Keynotes & Public Speaking
+
+I regularly share insights on AI, cloud computing, and technology at premier national and international events. Here are two highlighted presentations:
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎤 TEDx Talk</h4>
+      <p><strong>O Poder da Inteligência Artificial Generativa</strong><br>
+      <i>TEDx Jardim dos Seixas</i></p>
+      <p>A captivating talk on how Generative AI is reshaping industries, democratizing technology, and redefining the collaboration between humans and machine intelligence.</p>
+      <a href="https://www.youtube.com/watch?v=4LW5QHbHPqA" target="_blank">
+        <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch TEDx Talk" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ AWS re:Invent</h4>
+      <p><strong>Scaling Generative AI in Production</strong><br>
+      <i>Las Vegas (Global Keynote/Session)</i></p>
+      <p>Presented in the early days of GenAI to a massive crowd in Las Vegas. The session was so highly anticipated that it filled 4 rooms (2 main halls + 2 overflow rooms) and counted Jeff Barr (VP & Chief Evangelist of AWS) in the audience.</p>
+      <a href="https://www.youtube.com/user/viniciuscarida" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20My%20Channel-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS re:Invent Talk" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -93,8 +129,8 @@ I dedicate a significant part of my journey to demystifying AI and empowering th
 ## 📊 Dynamic Contribution Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vfcarida&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dynamic Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfcarida&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=vfcarida&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dynamic Stats" height="190" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=vfcarida&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="190" />
 </div>
 <br>
 <div align="center">
