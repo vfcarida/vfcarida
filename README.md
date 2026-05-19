@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.png" width="350" alt="Vinicius Caridá" style="border-radius: 50%;" />
+<img src="assets/profile.png" width="500" alt="Vinicius Caridá" style="border-radius: 50%;" />
 
 # 🧠 Vinicius Caridá, Ph.D.
 ### Executive Specialist in Data & AI | Computer Engineer | ML Expert
