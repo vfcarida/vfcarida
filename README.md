@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="assets/profile.png" width="500" alt="Vinicius Caridá" style="border-radius: 50%;" />
-
 # 🧠 Vinicius Caridá, Ph.D.
 ### Executive Specialist in Data & AI | Computer Engineer | ML Expert
+
+<img src="assets/profile.png" width="500" alt="Vinicius Caridá" style="border-radius: 50%;" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vfcarida&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
