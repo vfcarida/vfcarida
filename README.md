@@ -3,8 +3,6 @@
 # 🧠 Vinicius Caridá, Ph.D.
 ### Executive Specialist in Data & AI | Computer Engineer | ML Expert
 
-<img src="assets/profile.png" width="500" alt="Vinicius Caridá" style="border-radius: 50%;" />
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vfcarida&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
   <a href="https://www.linkedin.com/in/viniciuscarida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,6 +15,8 @@
   <em>"Using Tech, Data & AI to leverage business and impact people for a more fair and evolved world."</em><br>
   <small><i>"Do. Or do not. There is no try." — Applying the Jedi mindset to deploying ML models in production.</i></small>
 </p>
+
+<img src="assets/profile.png" width="500" alt="Vinicius Caridá" style="border-radius: 50%;" />
 
 </div>
 
