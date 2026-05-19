@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.png" width="220" alt="Vinicius Caridá" style="border-radius: 50%;" />
+<img src="assets/profile.png" width="280" alt="Vinicius Caridá" style="border-radius: 50%;" />
 
 # 🧠 Vinicius Caridá, Ph.D.
 ### Executive Specialist in Data & AI | Computer Engineer | ML Expert
@@ -76,8 +76,8 @@ I regularly share insights on AI, cloud computing, and technology at premier nat
       <p><strong>Scaling Generative AI in Production</strong><br>
       <i>Las Vegas (Global Keynote/Session)</i></p>
       <p>Presented in the early days of GenAI to a massive crowd in Las Vegas. The session was so highly anticipated that it filled 4 rooms (2 main halls + 2 overflow rooms) and counted Jeff Barr (VP & Chief Evangelist of AWS) in the audience.</p>
-      <a href="https://www.youtube.com/user/viniciuscarida" target="_blank">
-        <img src="https://img.shields.io/badge/Visit%20My%20Channel-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS re:Invent Talk" />
+      <a href="https://www.youtube.com/watch?v=R5P6kwvZLok" target="_blank">
+        <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch AWS re:Invent Talk" />
       </a>
     </td>
   </tr>
