@@ -126,18 +126,6 @@ I dedicate a significant part of my journey to demystifying AI and empowering th
 
 ---
 
-## 📊 Dynamic Contribution Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=vfcarida&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dynamic Stats" height="190" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=vfcarida&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="190" />
-</div>
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vfcarida&theme=radical&hide_border=true" alt="Contribution Streak" />
-</div>
-
----
 
 ## 📝 Strategic Vision & Recent Publications
 
