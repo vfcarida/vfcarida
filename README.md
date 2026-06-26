@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile.png" width="350" alt="Vinicius Caridá" style="border-radius: 50%;" />
-
 # 🧠 Vinicius Caridá, Ph.D.
 ### Executive Specialist in Data & AI | Computer Engineer | ML Expert
 
@@ -17,6 +15,8 @@
   <em>"Using Tech, Data & AI to leverage business and impact people for a more fair and evolved world."</em><br>
   <small><i>"Do. Or do not. There is no try." — Applying the Jedi mindset to deploying ML models in production.</i></small>
 </p>
+
+<img src="assets/profile.png" width="500" alt="Vinicius Caridá" style="border-radius: 50%;" />
 
 </div>
 
